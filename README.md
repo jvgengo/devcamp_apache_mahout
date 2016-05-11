@@ -21,7 +21,7 @@ Execute o comando a seguir para descobrir a porta ssh que a instância foi dispo
 > docker port instance-name
 
 <p align="justify" style="padding-top: 15px;">
-Agora você pode se conectar a instância usando ssh. A senha é: 'screencast'.
+Agora você pode se conectar a instância usando ssh. A senha é: 'devcamp'.
 </p>
 
 > ssh root@localhost -p ssh-port
